@@ -54,5 +54,5 @@ The following Go packages are used:
 ```bash
 go get github.com/denisenkom/go-mssqldb
 go get github.com/jmoiron/sqlx
-go get "golang.org/x/term"
+go get golang.org/x/term
 ```
